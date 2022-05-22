@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\masum\source\repos\FinalProjectsSpring\FinalProjectsSpring\Properties\PublishProfiles\ClickOnceProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Adminpage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Candidates details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Contact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Adminlogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CompanyUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Job apply page .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Job category page.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
